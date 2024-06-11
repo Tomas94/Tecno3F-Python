@@ -1,0 +1,12 @@
+Miembros:
+
+Bondyra, Jacqueline
+De Donatis, Tomás
+
+ACLARACIÓN:
+
+Las dos apps para la entrega son el generador de tickets y de contraseñas.
+
+El tateti lo hice individualmente (De Donatis) y no cuenta para la entrega porque usé conjuntos, 
+pero quisiera que lo vieras y me dieras un feedback de cómo lo ves, obviando que podría modularizar, 
+punto que ya noté cuando hice los métodos de JvJ y JvM.
